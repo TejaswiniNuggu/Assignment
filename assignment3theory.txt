@@ -1,0 +1,10 @@
+Window: 1.sits on top of the JS object hierarchy and represents browser windows.
+	  2.All JS objects, function, and variables become member of window object.
+	  3.Represents the current browsing context.
+	  4.It holds things like window.location,window.screen,window history.
+Document:1.Represnts a web page loaded in a browser.
+	   2.HTML document loaded in web browsers becomes document object.
+	   3.loads in side the window object.
+	   4.Has properties like URL,Cookie etc..
+Screen: 1.Its is about the physical dimension.
+	  2.width,height,pixel depth etc...
